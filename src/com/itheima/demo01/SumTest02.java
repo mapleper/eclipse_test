@@ -8,6 +8,7 @@ public class SumTest02 {
 			sum+=i;
 			System.out.println(sum);
 		}
+		System.out.println("hello java!!!");
 	}
 
 }
